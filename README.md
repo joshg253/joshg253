@@ -13,6 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshg253&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshg253&langs_count=5&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 -->
-[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshg253)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshg253)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshg253&count_private=true&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshg253&langs_count=5&layout=compact&theme=synthwave" />
+</a>
