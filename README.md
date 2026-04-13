@@ -22,3 +22,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshg253&count_private=true&show_icons=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshg253&langs_count=5&layout=compact" />
 </a>
+
+![Stats](./profile/stats.svg)
