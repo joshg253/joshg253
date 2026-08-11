@@ -1,6 +1,8 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
+
 **joshg253/joshg253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,5 +20,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshg253&langs_count=5&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+![Stats](https://github-stats-extended.vercel.app/api?username=joshg253&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=joshg253&layout=compact&theme=radical)
